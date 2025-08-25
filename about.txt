@@ -4,5 +4,7 @@ BCA-Datascience
 Learned points-
   Experiment 1:
     - create github account
-    - Create new Repository
-    - 
+    - Create new Repository(README)
+    - Upload files
+    - edit the file
+    - commit changes and view
