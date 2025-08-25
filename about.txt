@@ -7,4 +7,26 @@ Learned points-
     - Create new Repository(README)
     - Upload files
     - edit the file
-    - commit changes and view
+    - commit changes and view commit history
+    - Share the link to use others(send to trainer)
+  Experiments 2:
+    - Create new file(about.txt) inside, write name, course, learned about           GitHub
+    - commit file to our repository and share
+  Experiment 3:
+    - Create new repository(student-portal-demo)
+    - Describe basic idea for a student portal application
+  Experiment 4:
+    - common shapes
+      1) Oval/Elipse - start/end
+      2) Parallelogram - input/output
+      3) Diamond - decision
+      4) Rectangle - process/task
+      5) Arrows - connecter
+    - using "diagrams.net"
+      1) https://app.diagrams.net > first link
+      2) build flow chart using shapes
+      3) save by download as png
+    - upload in GitHub
+      1) Add file > upload files > select the png file
+  Experiment 5:
+    - 
