@@ -28,9 +28,26 @@ Learned points-
       3) save by download as png
     - upload in GitHub
       1) Add file > upload files > select the png file
-  Experiment 5:
-    - 
-  exp-6,7:
+  Experiment 5,6:
+    - flowcharts
+  Experiment-7:
+    - flowchart for food delivery app
+  Experiment-8:
+    - collabrating 2 meembers
+    - repository > settings > Collabratory(left pane) > verify email > search username(to invite) > send invitation
+  Experiment-9:
+    - lifecycle for your app project
+  Experiment-10:
+    - rename repository
+    - repository(need change) > settings > general > change repo name > click rename
+  Experiment-11:
+    - delete repo
+    - select repo > settings > scroll for "Danger Zone" > click "delete this repository" > accept terms > click > check
+  Experiment-12:
+    - delete file
+    - repo > file > three dots > delete file > commit changes
+
+
 Running code in GitHub:
   - open repository
   - open settings > go to pages(left pane)
