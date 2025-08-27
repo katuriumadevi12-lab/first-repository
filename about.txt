@@ -30,3 +30,10 @@ Learned points-
       1) Add file > upload files > select the png file
   Experiment 5:
     - 
+  exp-6,7:
+Running code in GitHub:
+  - open repository
+  - open settings > go to pages(left pane)
+  - change branch > main > root folder > save
+  - see pending in repository (top on files - dot)
+  - we can see the output in deployments(rightside)
