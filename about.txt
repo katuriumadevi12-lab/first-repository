@@ -52,7 +52,12 @@ Learned points-
     - Start deploying > continue with GitHub > username & password(for login) > import files > deploy > output
     - Start deploying > continue with GitHub > username & password(for login) > install > import files > deploy > output
   Experment-14:
-    - 
+    - GitHub output link 
+    - vercel output link
+  Experiment-15:
+    - build complete project
+    - flowchart, code, run, link upload
+    - all phases
 
 
 
